@@ -1,0 +1,25 @@
+list of terms:
+
+OBI:
+organism
+
+OHMI:
+microbiome organism
+microbiome 
+host-microbiome interaction
+
+IDO: 
+host
+host role
+infection
+
+ENVO:
+environment - biome
+
+OGMS： 
+Disease
+
+BFO: same or all.
+
+Note: import as one import file.
+

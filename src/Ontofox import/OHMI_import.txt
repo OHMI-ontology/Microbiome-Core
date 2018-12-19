@@ -1,0 +1,19 @@
+[URI of the OWL(RDF/XML) output file]
+http://purl.obolibrary.org/obo/MicrobiomeOntologyCore/OHMI_imports.owl
+
+[Source ontology]
+OHMI
+
+[Low level source term URIs]
+http://purl.obolibrary.org/obo/OHMI_0000001 #host-microbiome interaction 
+http://purl.obolibrary.org/obo/OHMI_0000003 #microbiome
+
+
+[Top level source term URIs and target direct superclass URIs]
+http://purl.obolibrary.org/obo/BFO_0000001 #entity
+
+[Source term retrieval setting]
+includeAllIntermediates
+
+[Source annotation URIs]
+includeAllAxiomsRecursively 
